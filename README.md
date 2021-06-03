@@ -5,7 +5,7 @@
 
 Projeto **SEMANA WEEK SANTANDER** em parceria com DIO.
 
-Consiste em um sistema de Cotações, você pode criar,pesquisar,deletar,atualizar através da apis.<br>
+Consiste em um Aplicativo Web de Cotações, você pode criar,pesquisar,deletar,atualizar através da apis.<br>
 *Parte do Back-End
 
 # Tecnologias utilizadas
